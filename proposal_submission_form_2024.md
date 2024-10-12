@@ -5,7 +5,7 @@
 #### Team Name: Dream Team    
   
 #### Your teamâ€™s hackathon idea in One sentence:
-##### VitalWatch is an app that promotes a lifestyle approach to healthcare by offering personalized suggestions for nearby bike routes, scenic parks, libraries, and recreation centers according to location proximity.
+##### Vitalwatch is an app that promotes a lifestyle approach to healthcare by offering personalized suggestions for nearby bike routes, scenic parks, libraries, and recreation centers according to location proximity.
 
 
 #### A visual
