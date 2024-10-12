@@ -43,8 +43,8 @@
 #### Team Coordinator GitHub Username: gapuzjia
 
 #### Team Members 
-Jia Gapuz - gapuzjia
-Gabriel Martinez - NightAcrobat777 
-Saul Medina - SaulMedinaR
+Jia Gapuz - gapuzjia,
+Gabriel Martinez - NightAcrobat777,
+Saul Medina - SaulMedinaR,
 Michelle Lappin - trapducky
 
